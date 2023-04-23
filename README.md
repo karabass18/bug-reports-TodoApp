@@ -1,3 +1,3 @@
 # bug-reports-TodoApp
 
-The bug-reports is in tab **Issues**
+The bug-reports is on tab **Issues**
